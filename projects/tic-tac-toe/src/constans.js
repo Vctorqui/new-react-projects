@@ -1,7 +1,7 @@
 // turnos
 export const TURNS = {
-    X: "x",
-    O: "o",
+    X: "❌",
+    O: "⚫",
   };
   
   // buscas mejores maneras
